@@ -440,6 +440,7 @@ ul {
     font-size: .8rem;
     line-height: 1.5;
     margin-bottom: .4rem;
+    display: none;
   }
 }
 
@@ -613,5 +614,9 @@ ul {
     line-height: 1.5;
     margin-bottom: .5rem;
   }
+}
+
+.text-justify {
+  text-align: justify!important;
 }
 
