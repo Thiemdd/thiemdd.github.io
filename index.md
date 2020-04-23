@@ -6,7 +6,7 @@ permalink: /
 <main class="page landing-page">
     <section class="clean-block clean-hero" style="background-image: url(&quot;/assets/img/img/2015/741306_477279049091580_2977568849935161971_o.jpg&quot;);color: rgba(88,40,65,0.95);">
         <div class="text">
-            <h2 style="font-size: 50px;font-weight: bold;">TOÁN MÔ HÌNH 2020</h2>
+            <h2 style="font-size: 50px;font-weight: bold; color: white!important">TOÁN MÔ HÌNH 2020</h2>
             <p>Một cuộc thi thường niên về xây dựng và giải quyết các vấn đề thực tế bằng toán học cho các học sinh lớp 10 và 11</p><button class="btn btn-outline-light btn-lg" type="button">Tìm hiểu thêm</button></div>
     </section>
     <section class="clean-block clean-info dark">
