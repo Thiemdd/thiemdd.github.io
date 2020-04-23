@@ -183,25 +183,4 @@ permalink: /about/
             </div>
         </div>
     </section>
-    <section class="clean-block clean-form dark">
-        <div class="container">
-            <div class="block-heading">
-                <h2 class="text-info" style="color: rgb(88,0,0)!important;">Contact</h2>
-            </div>
-            <form
-                action="https://docs.google.com/forms/d/e/1FAIpQLSdTyUeThYUi-499_Sbb5lTMrJJCLXZnvgshcRq8y9XwrgY5UA/formResponse"
-                method="POST" id="mG61Hd">
-                <div class="form-group"><label>Name</label><input class="form-control" name="entry.2005620554"
-                        type="text"></div>
-                <div class="form-group"><label>Email</label><input class="form-control" name="entry.1045781291"
-                        type="email"></div>
-                <div class="form-group"><label>Phone</label><input class="form-control" name="entry.1166974658"
-                        type="text"></div>
-                <div class="form-group"><label>Message</label><textarea class="form-control"
-                        name="entry.839337160"></textarea></div>
-                <div class="form-group"><button class="btn btn-primary btn-block" type="submit"
-                        style="background-color: rgb(79,1,1);">Send</button></div>
-            </form>
-        </div>
-    </section>
 </main>
